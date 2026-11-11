@@ -20,12 +20,6 @@ Jogo arcade para navegador, inspirado na mecânica de desviar de obstáculos. Co
 - **Computador:** `↑` para pular; `Espaço` para iniciar/pular e reiniciar após o fim da partida.
 - **Celular:** toque na tela para pular; no fim da partida, toque no botão de reinício.
 
-## Executar localmente
-
-Abra `index.html` no navegador. Para servir por um servidor local no VS Code, utilize a extensão Live Server ou um servidor HTTP local.
-
-Não é necessária instalação de dependências para rodar os arquivos publicados.
-
 ## Estrutura
 
 - `index.html`: elemento Canvas e entrada do jogo.
